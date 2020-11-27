@@ -187,12 +187,8 @@
   color: #ffffff;
 }
 
-.gallary .list-filters:hover,
-.gallary .list-filters:focus {
-  color: var(--primary-text-color);
-}
-
-.gallary .filter-active {
+.gallary .filter:hover,
+.gallary .filter:focus {
   background-color: var(--primary-text-color);
 }
 
